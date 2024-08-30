@@ -1,0 +1,1 @@
+This is modern HTML, CSS creating a completely responsive Scroll Progress Indicator. We'll be using CSS Flexbox, CSS transition for hover effect and css animations for scroll indicating, Also we have a Scroll to Element in this code
